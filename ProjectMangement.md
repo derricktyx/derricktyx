@@ -9,13 +9,11 @@ As we are all busy with work, it was difficult to get together to discuss the pr
 
 ## Sprint Burndown Charts
 
-*In this section include a screenshot of a sprint-burndown chart for each of your completed sprints.*
-
-*For each sprint, include links to the standup meetings (recorded on Jira, hopefully) associated with each sprint.*
+![Chart](Sprint Burndown Chart 1.jpg)
 
 ## Burndown-Charts Discussion
-*Add a discussion of what the burndown charts indicate, and how your team might improve their velocity / estimation ability in future sprints.*
+Code development is on track. Created sprints retrospectively
 
 ## Product Backlog
-*Include here a screenshot of your current product backlog.*
+![Backlog](Backlog 1.jpg)
 
