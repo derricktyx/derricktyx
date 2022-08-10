@@ -2,25 +2,23 @@
 
 ## Project management discussion
 
-*Include a paragraph or two, agreed by all team members, on how well the group has worked together, and how well the project is progressing.*
+Group members are working well together, we were able to quickly identify each other strengths & allocate suitable tasks. 
+Project is going on as planned, with 2 members focused on coding while the other 2 on presentation & project management.
 
-*Discuss the scrum meetings, and what could make them more efficient (if anything).*
+As we are all busy with work, it was difficult to get together to discuss the project. However, we managed to communicate efficiently on Telegram group chat.
 
-*Highlight any communication issues that might be affecting the project.*
+Scrum meetings were all done online. So a lot on time was wasted with poor internet connection, mic, excessive noises etc. It will be more productive if done in person
 
-*If standup meetings were used, then include a Jira link, and discuss their effectiveness.*
+We have 2 mainly mandarin speakers in the group & a member that does not understand any mandarin, so there were gaps with the communications but we were patient to translate & make sure that everyone was included & heard.
 
 ## Sprint Burndown Charts
 
-*In this section include a screenshot of a sprint-burndown chart for each of your completed sprints.*
-
-*For each sprint, include links to the standup meetings (recorded on Jira, hopefully) associated with each sprint.*
+![Chart](Sprint Burndown Chart 1.jpg)
 
 ## Burndown-Charts Discussion
-*Add a discussion of what the burndown charts indicate, and how your team might improve their velocity / estimation ability in future sprints.*
+Code development is on track. Created sprints retrospectively
 
 ## Product Backlog
-*Include here a screenshot of your current product backlog.*
+![Backlog](Backlog 1.jpg)
 
-## Other Areas
-*If your team has anything else they want to demonstrate, e.g. advanced project management tools, reporting graphs with suitable explanation and interpretation, advanced use of Jira (e.g. issue links, epics, versions), or continuous integration tools, then include a summary here.*
+
