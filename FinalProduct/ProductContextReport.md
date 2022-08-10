@@ -4,13 +4,14 @@
 
 ## Legal
 
-*Consider the legal issues of your product.  For example, which data was used from whom, and under what licence permissions?*
-*Similarly, for any 3rd party software libraries you've used.  Acknowledge if you have full permission or not.*
-*Also, what licence would be most suitable for your own software to be released under?*
-*Which data protection laws are relevant to your product or future customers of your product?*
+Our product will be released unlicensed to the customer as our code are generic and easy to code. 
+This will reduce our cost greatly & allow us to go-to-market quickly.
+We will still retain our competitive advantage which is the creativity that we have on coming up with the games. 
+
+We have also purchase a license for the music in the product.
 
 ## Ethical
-Consider any ethical issues that have arisen or are associated with your product.
+Hackers may create a third party solver to redeem more vouchers than what a normal human could do.
 
 ## Health and Safety
-Consider any H&S issues that have arisen or are associated with your product. 
+Addiction to the game may cause screen fatigue to customers
